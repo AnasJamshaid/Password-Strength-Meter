@@ -54,11 +54,8 @@ No installation needed! Use the live version here:
 
 ## 📷 Screenshots
 
-🔹 **Password Analysis & Feedback**  
-![Password Strength Meter Screenshot](https://via.placeholder.com/800x400)  
-
-🔹 **Strong Password Generator**  
-![Secure Password Generator](https://via.placeholder.com/800x400)  
+🔹 **Strong Password Generator**   
+![Password Strength Meter Screenshot](./Screenshot%202025-03-05%20005815.png)  
 
 ---
 
